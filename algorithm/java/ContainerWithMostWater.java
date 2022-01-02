@@ -15,7 +15,7 @@
  * 	2 <= n <= 105
  *	0 <= height[i] <= 104
  */
-class Solution {
+public class ContainerWithMostWater {
 
 	/**
 	 * 时间复杂度: O(n)

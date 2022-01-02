@@ -17,7 +17,7 @@
  *		2. 1 阶 + 2 阶
  *		3. 2 阶 + 1 阶
  */
-class Solution {
+public class ClimbStairs {
 
 	/**
 	 * 递归
@@ -37,7 +37,7 @@ class Solution {
 	 * 时间复杂度: O(n)
 	 * 空间复杂度: O(1)
 	 */
-	public int climbStairs(int n) {
+	public int climbStairs2(int n) {
         if (n == 0 || n == 1) {
             return 1;
         }

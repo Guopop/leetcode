@@ -8,6 +8,11 @@
  * 	尽量减少操作次数。
  */
 class Solution {
+
+    /**
+     * 时间复杂度: O(n)
+     * 空间复杂度: O(1)
+     */
     public void moveZeroes(int[] nums) {
         if (nums == null || nums.length == 0) {
             return;

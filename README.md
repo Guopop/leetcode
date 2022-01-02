@@ -4,7 +4,7 @@
 
 | Index | Name                                                                          | Tag                        | Solution                                             | Rank |
 | ----- | ----------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------------- | ---- |
-| 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                       | 数组、双指针               | [Java](./algorithm/java/moveZeroes/MoveZeroes.java)  | 简单 |
+| 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                       | 数组、双指针               | [Java](./algorithm/java/MoveZeroes.java)  | 简单 |
 | 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)             | 递归、链表                 | [Java](./algorithm/java/ReverseLinkedList.java)      | 简单 |
 | 175   | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)            | 数据库                     | [MySQL](./database/mysql/combineTwoTables.sql)       | 简单 |
 | 70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                   | 记忆化搜索、数学、动态规划 | [Java](./algorithm/java/ClimbingStairs.java)         | 简单 |

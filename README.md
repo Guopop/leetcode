@@ -6,6 +6,7 @@
 | ----- | ----------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------- | ---- |
 | 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                         | 数组、双指针               | [Java](./algorithm/java/MoveZeroes.java)                      | 简单 |
 | 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                               | 递归、链表                 | [Java](./algorithm/java/ReverseLinkedList.java)               | 简单 |
+| 189   | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                      | 数组、数学、双指针         | [Java](./algorithm/java/RotateArray.java)                     | 中等 |
 | 175   | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)                              | 数据库                     | [MySQL](./database/mysql/combineTwoTables.sql)                | 简单 |
 | 176   | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)                         | 数据库                     | [MySQL](./database/mysql/secondHighestSalary.sql)             | 中等 |
 | 177   | [第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)                             | 数据库                     | [MySQL](./database/mysql/nthHighestSalary.sql)                | 中等 |

@@ -23,7 +23,7 @@ public class ThreeSum {
      * 时间复杂度: O(n^2)
      * 空间复杂度: O(n)
      */
-    public List threeSum(int[] nums) {
+    public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res= new ArrayList<>();
         if (nums == null || nums.length < 3) {
             return res;

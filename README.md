@@ -9,6 +9,7 @@
 | 175   | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)            | 数据库                     | [MySQL](./database/mysql/combineTwoTables.sql)       | 简单 |
 | 176   | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)       | 数据库                     | [MySQL](./database/mysql/secondHighestSalary.sql)    | 中等 |
 | 177   | [第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)           | 数据库                     | [MySQL](./database/mysql/nthHighestSalary.sql)       | 中等 |
+| 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 哈希表、链表、双指针 | [Java](./algorithm/java/LinkedListCycle.java) | 中等 |
 | 70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                   | 记忆化搜索、数学、动态规划 | [Java](./algorithm/java/ClimbingStairs.java)         | 简单 |
 | 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 递归、链表                 | [Java](./algorithm/java/SwapNodesInPairs.java)       | 中等 |
 | 15    | [三数之和](https://leetcode-cn.com/problems/3sum/)                            | 数组、双指针、排序         | [Java](./algorithm/java/ThreeSum.java)               | 中等 |

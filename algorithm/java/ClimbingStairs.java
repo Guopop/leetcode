@@ -17,7 +17,7 @@
  *		2. 1 阶 + 2 阶
  *		3. 2 阶 + 1 阶
  */
-public class ClimbStairs {
+public class ClimbingStairs {
 
 	/**
 	 * 递归
@@ -29,7 +29,7 @@ public class ClimbStairs {
             return 1;
         }
 
-        return climbStairs(n - 1) + climbStairs(n - 2);
+        return climbStairs1(n - 1) + climbStairs1(n - 2);
     }
 
 	/**

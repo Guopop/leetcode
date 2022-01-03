@@ -13,7 +13,7 @@
  *	链表中节点的数目范围是 [0, 5000]
  *	-5000 <= Node.val <= 5000
  */
-public class ReverseList {
+public class ReverseLinkedList {
     /**
      * 时间复杂度: O(n)
      * 空间复杂度: O(1)

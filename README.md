@@ -10,6 +10,7 @@
 | 175   | [组合两个表](https://leetcode-cn.com/problems/combine-two-tables/)                              | 数据库                     | [MySQL](./database/mysql/combineTwoTables.sql)                | 简单 |
 | 176   | [第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)                         | 数据库                     | [MySQL](./database/mysql/secondHighestSalary.sql)             | 中等 |
 | 177   | [第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary/)                             | 数据库                     | [MySQL](./database/mysql/nthHighestSalary.sql)                | 中等 |
+| 155   | [最小栈](https://leetcode-cn.com/problems/min-stack/)                                           | 栈、设计                   | [Java](./algorithm/java/MinStack.java)                        | 简单 |
 | 141   | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                 | 哈希表、链表、双指针       | [Java](./algorithm/java/LinkedListCycle.java)                 | 中等 |
 | 142   | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                           | 哈希表、链表、双指针       | [Java](./algorithm/java/LinkedListCycle2.java)                | 中等 |
 | 88    | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                        | 数组、双指针、排序         | [Java](./algorithm/java/MergeSortedArray.java)                | 简单 |

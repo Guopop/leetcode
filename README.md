@@ -16,6 +16,7 @@
 | 26    | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 数组、双指针               | [Java](./algorithm/java/RemoveDuplicatesFromSortedArray.java) | 简单 |
 | 25    | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)                  | 递归、链表                 | [Java](./algorithm/java/ReverseNodesInKGroup.java)            | 困难 |
 | 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)                   | 递归、链表                 | [Java](./algorithm/java/SwapNodesInPairs.java)                | 中等 |
+| 21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)                    | 递归、链表                 | [Java](./algorithm/java/MergeTwoSortedLists.java)             |      |
 | 15    | [三数之和](https://leetcode-cn.com/problems/3sum/)                                              | 数组、双指针、排序         | [Java](./algorithm/java/ThreeSum.java)                        | 中等 |
 | 11    | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)                   | 贪心、数组、双指针         | [Java](./algorithm/java/ContainerWithMostWater.java)          | 中等 |
 | 1     | [两数之和](https://leetcode-cn.com/problems/two-sum/)                                           | 数组、哈希表               | [Java](./algorithm/java/TwoSum.java)                          | 简单 |

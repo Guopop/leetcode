@@ -7,6 +7,7 @@
 | 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                            | 数组、双指针               | [Java](./algorithm/java/MoveZeroes.java)                            | 简单 |
 | 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                 | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 189   | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                         | 数组、数学、双指针         | [Java](./algorithm/java/RotateArray.java)                           | 中等 |
+| 182   | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)                           | 数据库                     | [MysQL](./database/mysql/duplicateEmails.sql)                       | 简单 |
 | 181   | [超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/) | 数据库                     | [MySQL](./database/mysql/employeesEarningMoreThanTheirManagers.sql) | 简单 |
 | 180   | [连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)                            | 数据库                     | [MySQL](./database/mysql/consecutiveNumbers.sql)                    | 中等 |
 | 178   | [连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers/)                            | 数据库                     | [MySQL](./database/mysql/rankScores.sql)                            | 中等 |

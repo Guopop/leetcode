@@ -20,6 +20,7 @@
 | 155   | [最小栈](https://leetcode-cn.com/problems/min-stack/)                                              | 栈、设计                                     | [Java](./algorithm/java/MinStack.java)                              | 简单 |
 | 141   | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                    | 哈希表、链表、双指针                         | [Java](./algorithm/java/LinkedListCycle.java)                       | 中等 |
 | 142   | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                              | 哈希表、链表、双指针                         | [Java](./algorithm/java/LinkedListCycle2.java)                      | 中等 |
+| 94    | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                | 栈、树、深度优先搜索、二叉树                 | [Java](./algorithm/java/BinaryTreeInorderTraversal.java)            | 简单 |
 | 88    | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                           | 数组、双指针、排序                           | [Java](./algorithm/java/MergeSortedArray.java)                      | 简单 |
 | 84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)             | 栈、数组、单调栈                             | [Java](./algorithm/java/LargestRectangleInHistogram.java)           | 困难 |
 | 70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                        | 记忆化搜索、数学、动态规划                   | [Java](./algorithm/java/ClimbingStairs.java)                        | 简单 |

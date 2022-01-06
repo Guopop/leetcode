@@ -5,6 +5,7 @@
 | Index | Name                                                                                               | Tag                        | Solution                                                            | Rank |
 | ----- | -------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------------------------- | ---- |
 | 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                            | 数组、双指针               | [Java](./algorithm/java/MoveZeroes.java)                            | 简单 |
+| 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 队列、数组、滑动窗口、单调队列、堆(优先队列) | [Java](./algorithm/java/SlidingWindowMaximum.java) | 困难 |
 | 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                 | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 189   | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                         | 数组、数学、双指针         | [Java](./algorithm/java/RotateArray.java)                           | 中等 |
 | 182   | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)                           | 数据库                     | [MysQL](./database/mysql/duplicateEmails.sql)                       | 简单 |

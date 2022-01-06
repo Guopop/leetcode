@@ -6,6 +6,7 @@
 | ----- | -------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------- | ---- |
 | 641   | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)                        | 设计、队列、数组、链表                       | [Java](./algorithm/java/DesignCircularDeque.java)                   | 中等 |
 | 283   | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                            | 数组、双指针                                 | [Java](./algorithm/java/MoveZeroes.java)                            | 简单 |
+| 242   | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)                                | 哈希表、字符串、排序                         | [Java](./algorithm/java/ValidAnagram.java)                          | 简单 |
 | 239   | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)                         | 队列、数组、滑动窗口、单调队列、堆(优先队列) | [Java](./algorithm/java/SlidingWindowMaximum.java)                  | 困难 |
 | 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                                   | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 189   | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                         | 数组、数学、双指针                           | [Java](./algorithm/java/RotateArray.java)                           | 中等 |
@@ -23,7 +24,7 @@
 | 84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)             | 栈、数组、单调栈                             | [Java](./algorithm/java/LargestRectangleInHistogram.java)           | 困难 |
 | 70    | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                        | 记忆化搜索、数学、动态规划                   | [Java](./algorithm/java/ClimbingStairs.java)                        | 简单 |
 | 66    | [加一](https://leetcode-cn.com/problems/plus-one/)                                                 | 数组、数学                                   | [Java](./algorithm/java/PlusOne.java)                               | 简单 |
-| 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 栈、数组、双指针、动态规划、单调栈 | [Java](./algorithm/java/TrappingRainWater.java) | 困难 |
+| 42    | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)                                    | 栈、数组、双指针、动态规划、单调栈           | [Java](./algorithm/java/TrappingRainWater.java)                     | 困难 |
 | 26    | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)    | 数组、双指针                                 | [Java](./algorithm/java/RemoveDuplicatesFromSortedArray.java)       | 简单 |
 | 25    | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)                     | 递归、链表                                   | [Java](./algorithm/java/ReverseNodesInKGroup.java)                  | 困难 |
 | 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)                      | 递归、链表                                   | [Java](./algorithm/java/SwapNodesInPairs.java)                      | 中等 |

@@ -9,6 +9,7 @@
 | 589           | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)                 | 栈、树、深度优先搜索                         | [Java](./algorithm/java/NAryTreePreorderTraversal.java)             | 简单 |
 | 429           | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)              | 树、广度优先搜索                             | [Java](./algorithm/java/NAryTreeLevelOrderTraversal.java)           | 中等 |
 | 283           | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                            | 数组、双指针                                 | [Java](./algorithm/java/MoveZeroes.java)                            | 简单 |
+| 264           | [丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)                                         | 哈希表、数学、动态规划、堆(优先队列)         | [Java](./algorithm/java/UglyNumber2.java)                           | 中等 |
 | 242           | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)                                | 哈希表、字符串、排序                         | [Java](./algorithm/java/ValidAnagram.java)                          | 简单 |
 | 239           | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)                         | 队列、数组、滑动窗口、单调队列、堆(优先队列) | [Java](./algorithm/java/SlidingWindowMaximum.java)                  | 困难 |
 | 206           | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                                   | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |

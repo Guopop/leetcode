@@ -32,6 +32,7 @@
 | 94            | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                | 栈、树、DFS、二叉树                  | [Java](./algorithm/java/BinaryTreeInorderTraversal.java)            | 简单 |
 | 88            | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                           | 数组、双指针、排序                   | [Java](./algorithm/java/MergeSortedArray.java)                      | 简单 |
 | 84            | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)             | 栈、数组、单调栈                     | [Java](./algorithm/java/LargestRectangleInHistogram.java)           | 困难 |
+| 78            | [子集](https://leetcode-cn.com/problems/subsets/)                                                  | 位运算、数组、回溯                   | [Java](./algorithm/java/Subsets.java)                               | 中等 |
 | 70            | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                        | 记忆化搜索、数学、动态规划           | [Java](./algorithm/java/ClimbingStairs.java)                        | 简单 |
 | 66            | [加一](https://leetcode-cn.com/problems/plus-one/)                                                 | 数组、数学                           | [Java](./algorithm/java/PlusOne.java)                               | 简单 |
 | 50            | [Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)                                               | 递归、数学                           | [Java](./algorithm/java/PowxN.java)                                 | 中等 |

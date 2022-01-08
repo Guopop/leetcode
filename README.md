@@ -35,6 +35,7 @@
 | 78            | [子集](https://leetcode-cn.com/problems/subsets/)                                                  | 位运算、数组、回溯                   | [Java](./algorithm/java/Subsets.java)                               | 中等 |
 | 70            | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                                        | 记忆化搜索、数学、动态规划           | [Java](./algorithm/java/ClimbingStairs.java)                        | 简单 |
 | 66            | [加一](https://leetcode-cn.com/problems/plus-one/)                                                 | 数组、数学                           | [Java](./algorithm/java/PlusOne.java)                               | 简单 |
+| 51            | [N皇后](https://leetcode-cn.com/problems/n-queens/)                                                | 数组、回溯                           | [Java](./algorithm/java/NQueens.java)                               | 困难 |
 | 50            | [Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)                                               | 递归、数学                           | [Java](./algorithm/java/PowxN.java)                                 | 中等 |
 | 49            | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)                                 | 哈希表、字符串、排序                 | [Java](./algorithm/java/GroupAnagrams.java)                         | 中等 |
 | 42            | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)                                    | 栈、数组、双指针、动态规划、单调栈   | [Java](./algorithm/java/TrappingRainWater.java)                     | 困难 |

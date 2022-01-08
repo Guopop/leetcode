@@ -16,6 +16,7 @@
 | 206           | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                           | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 200           | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                                    | DFS、BFS、并查集、数组、矩阵         | [Java](./algorithm/java/NumberOfIslands.java)                       | 中等 |
 | 189           | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                         | 数组、数学、双指针                   | [Java](./algorithm/java/RotateArray.java)                           | 中等 |
+| 185           | [部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries/)        | 数据库                               | [MySQL](./database/mysql/departmentTopThreeSalaries.sql)            | 困难 |
 | 184           | [部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary/)                  | 数据库                               | [MySQL](./database/mysql/departmentHighestSalary.sql)               | 简单 |
 | 183           | [从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)                      | 数据库                               | [MySQL](./database/mysql/customersWhoNeverOrder.sql)                | 简单 |
 | 182           | [查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)                           | 数据库                               | [MysQL](./database/mysql/duplicateEmails.sql)                       | 简单 |

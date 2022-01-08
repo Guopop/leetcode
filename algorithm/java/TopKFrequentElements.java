@@ -11,6 +11,7 @@ public class TopKFrequentElements {
 	 * 时间复杂度: O(n)
 	 * 空间复杂度: O(n) 
 	 */
+    @SuppressWarnings("unchecked")
 	public int[] topKFrequent(int[] nums, int k) {
         if (nums == null || k <= 0) {
             return new int[0];

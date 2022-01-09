@@ -15,6 +15,7 @@
 | 239           | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)                         | 滑动窗口、单调队列、堆(优先队列)     | [Java](./algorithm/java/SlidingWindowMaximum.java)                  | 困难 |
 | 206           | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                  | 递归、链表                           | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 200           | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                                    | DFS、BFS、并查集、数组、矩阵         | [Java](./algorithm/java/NumberOfIslands.java)                       | 中等 |
+| 197           | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/)                                 | 数据库                               | [MySQL](./database/mysql/risingTemperature.sql)                     | 简单 |
 | 196           | [删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)                    | 数据库                               | [MySQL](./database/mysql/deleteDuplicateEmails.sql)                 | 简单 |
 | 189           | [轮转数组](https://leetcode-cn.com/problems/rotate-array/)                                         | 数组、数学、双指针                   | [Java](./algorithm/java/RotateArray.java)                           | 中等 |
 | 185           | [部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries/)        | 数据库                               | [MySQL](./database/mysql/departmentTopThreeSalaries.sql)            | 困难 |

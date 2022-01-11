@@ -16,6 +16,7 @@
 | 262           | [行程和用户](https://leetcode-cn.com/problems/trips-and-users/)                                      | 数据库                               | [MySQL](./database/mysql/tripsAndUsers.sql)                         | 困难 |
 | 242           | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)                                  | 哈希表、字符串、排序                 | [Java](./algorithm/java/ValidAnagram.java)                          | 简单 |
 | 239           | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)                           | 滑动窗口、单调队列、堆(优先队列)     | [Java](./algorithm/java/SlidingWindowMaximum.java)                  | 困难 |
+| 226           | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)                                   | 二叉树、DFS、BFS                     | [Java](./algorithm/java/InvertBinaryTree.java)                      | 简单 |
 | 206           | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                                    | 递归、链表                           | [Java](./algorithm/java/ReverseLinkedList.java)                     | 简单 |
 | 200           | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)                                      | DFS、BFS、并查集、数组、矩阵         | [Java](./algorithm/java/NumberOfIslands.java)                       | 中等 |
 | 197           | [上升的温度](https://leetcode-cn.com/problems/rising-temperature/)                                   | 数据库                               | [MySQL](./database/mysql/risingTemperature.sql)                     | 简单 |

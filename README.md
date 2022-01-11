@@ -7,6 +7,7 @@
 | 641           | [设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/)                        | 设计、队列、数组、链表               | [Java](./algorithm/java/DesignCircularDeque.java)                   | 中等 |
 | 590           | [N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)                | 栈、树、DFS                          | [Java](./algorithm/java/NAryTreePostorderTraversal.java)            | 简单 |
 | 589           | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)                 | 栈、树、DFS                          | [Java](./algorithm/java/NAryTreePreorderTraversal.java)             | 简单 |
+| 569           | [员工薪水中位数](https://leetcode-cn.com/problems/median-employee-salary/)                         | 数据库                               | [MySQL](./database/mysql/medianEmployeeSalary.sql)                  | 困难 |
 | 429           | [N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)              | 树、BFS                              | [Java](./algorithm/java/NAryTreeLevelOrderTraversal.java)           | 中等 |
 | 347           | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)                         | 哈希表、分治、桶排序、堆(优先队列)   | [Java](./algorithm/java/TopKFrequentElements.java)                  | 中等 |
 | 283           | [移动零](https://leetcode-cn.com/problems/move-zeroes/)                                            | 数组、双指针                         | [Java](./algorithm/java/MoveZeroes.java)                            | 简单 |

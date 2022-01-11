@@ -36,6 +36,7 @@
 | 144           | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)                 | 栈、树、DFS、二叉树                  | [Java](./algorithm/java/BinaryTreePreorderTraversal.java)           | 简单 |
 | 141           | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)                                      | 哈希表、链表、双指针                 | [Java](./algorithm/java/LinkedListCycle.java)                       | 中等 |
 | 142           | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)                                | 哈希表、链表、双指针                 | [Java](./algorithm/java/LinkedListCycle2.java)                      | 中等 |
+| 98            | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)                      | 二叉树、DFS                          | [Java](./algorithm/java/ValidateBinarySearchTree.java)              | 中等 |
 | 94            | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)                  | 栈、树、DFS、二叉树                  | [Java](./algorithm/java/BinaryTreeInorderTraversal.java)            | 简单 |
 | 88            | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                             | 数组、双指针、排序                   | [Java](./algorithm/java/MergeSortedArray.java)                      | 简单 |
 | 84            | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)               | 栈、数组、单调栈                     | [Java](./algorithm/java/LargestRectangleInHistogram.java)           | 困难 |
